@@ -7,9 +7,8 @@ import sys
 
 import numpy as np
 
-import soluciones
+import preguntas
 
-preguntas = soluciones
 
 
 def test_01():
